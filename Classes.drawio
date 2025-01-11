@@ -857,7 +857,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3y0I9gLtBBAWx4bMKy_n-1" value="&lt;div&gt;MTH 419&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;" vertex="1" parent="1">
+        <mxCell id="3y0I9gLtBBAWx4bMKy_n-1" value="&lt;div&gt;MTH 419&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="880" y="160" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
